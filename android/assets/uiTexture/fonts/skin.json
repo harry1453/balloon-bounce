@@ -1,0 +1,14 @@
+{
+	"com.badlogic.gdx.graphics.g2d.BitmapFont": {
+		"fontWhite": { "file": "uiTexture/fonts/fontWhite.fnt" },
+		"fontBlack": { "file": "uiTexture/fonts/fontBlack.fnt" },
+	},
+	"com.badlogic.gdx.graphics.Color": {
+        "white": { "r": 1, "g": 1, "b": 1, "a": 1 },
+        "black": { "r": 0, "g": 0, "b": 0, "a": 1 },
+    },
+    "com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle": {
+        "fontBlack": { "font": fontBlack, "fontColor": black},
+        "fontWhite": { "font": fontWhite , "fontColor": white},
+    },
+}

@@ -1,0 +1,11 @@
+{
+    "com.badlogic.gdx.graphics.g2d.BitmapFont": {
+        "font": { "file": "uiTexture/fonts/arial/arialWhite.fnt" },
+    },
+    "com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle": { 
+        "default": { "up": "green_button02" , "down": "green_button03", "font": font, "pressedOffsetY": -4 }
+    },
+	"com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle": {
+        "default": { "font": font}
+    }
+}
